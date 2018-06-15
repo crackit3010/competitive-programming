@@ -81,12 +81,10 @@ int main()
     
     if(g1[1][n]==1)
     {
-        
         cout<<BFS(n,g2)<<endl;
     }
     else
     {
-        
         cout<<BFS(n,g1)<<endl;
     }
 	  return 0;
