@@ -1,3 +1,5 @@
+//The catch: Either one of the rail or road is always gonna reach to the destination in unit time.//\
+
 #include<bits/stdc++.h>
 using namespace std;
 
